@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Trail of Nanook</title>
+	<release-date>TBD</release-date>
+	<website>http://www.sakarigames.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Steam</name>
+			<link>http://store.steampowered.com/</link>
+		</platform>
+        <platform>
+			<name>Nintendo e-Shop</name>
+			<link>https://www.nintendo.com</link>
+		</platform>
+        <platform>
+			<name>Xbox</name>
+			<link>https://www.xbox.com/</link>
+		</platform>
+	</platforms>
+	
+<!--
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$9.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€9.99</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$10.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£6.99</value>
+		</price>
+	</prices>
+-->
+    
+	<description>
+Trail of Nanook is a couch co-op game that takes you on an arctic adventure. Team up with your Inuit twin and build igloos, raise your huskies to sled over ice plains, fish, hunt and craft your tools to survive the harsh environment.
+	</description>
+	
+	<history>
+This project is currently still in developement. At this moment we have created a vertical slice and a survival level. From the feedback in our playtest sessions we learned that players especially enjoy the cooperative play elements that require input from both players... more soon.
+	</history>
+
+<!--
+	<features>
+		<feature>8 Unique stages</feature>
+		<feature>Play with up to 4 players on one screen</feature>
+        <feature>5 Different gamemodes</feature>
+	</features>
+-->
+	
+	<trailers>
+		<trailer>
+			<name>Reveal Trailer</name>
+			<youtube>naTieWTzaEc</youtube>
+		</trailer>
+	</trailers>
+	
+<!--
+	<awards>
+		<award>
+			<description>none yet</description>
+			<info></info>
+		</award>
+	</awards>
+
+	
+	<quotes>
+
+		<quote>
+			<description>this game is easily one of the best of its genre.</description>
+			<name>Gamer Dad</name>
+			<website>gamerdad.co.uk</website>
+			<link>https://gamerdad.co.uk/pc_gaming/pc/pc_review/cargo-breach-pc-review/</link>
+		</quote>
+
+	</quotes>
+	
+
+	<additionals>
+		<additional>
+			<title></title>
+			<description></description>
+			<link></link>
+		</additional>
+	</additionals>
+-->
+	
+	<credits>
+		<credit>
+			<person>Pepijn Rijnders</person>
+			<website>https://www.linkedin.com/in/pepijnrijnders/</website>
+			<role>Direction and Additional Art</role>
+		</credit>
+		<credit>
+			<person>Jeroen Van Raevels</person>
+			<website>https://www.linkedin.com/in/jeroen-van-raevels-2298991b/</website>
+			<role>Lead Programmer</role>
+		</credit>
+        <credit>
+			<person>Pepijn Willekens</person>
+			<website>https://www.linkedin.com/in/pepijnw/</website>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Matthias Vandeurzen</person>
+			<website>https://www.linkedin.com/in/matthias-vandeurzen-a3bb63160/</website>
+			<role>Environment Artist</role>
+		</credit>
+		<credit>
+			<person>Mattias Pryck</person>
+			<website>https://www.linkedin.com/in/mattias-pryck-b8aab2169/</website>
+			<role>Animator</role>
+		</credit>
+        <credit>
+			<person>Toon Dewachter</person>
+			<website>https://www.linkedin.com/in/toon-dewachter/</website>
+			<role>Art</role>
+		</credit>
+        <credit>
+			<person>Maxime Quardon</person>
+			<website>https://www.linkedin.com/in/maxime-quardon-b9ab41126/</website>
+			<role>Audio</role>
+		</credit>
+
+
+	</credits>
+
+</game>

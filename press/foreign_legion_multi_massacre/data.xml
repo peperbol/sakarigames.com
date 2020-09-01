@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Foreign Legion: Multi Massacre</title>
+	<release-date>9 Jul, 2012</release-date>
+	<website>http://sakarigames.com</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Steam</name>
+			<link>https://store.steampowered.com/app/205550/Foreign_Legion_Multi_Massacre/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$4.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€4.99</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$5.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£3.99</value>
+		</price>
+	</prices>
+	<description>
+Foreign Legion: Multi Massacre is the (far too) long awaited follow up to Buckets of Blood. Now you can continue the cartoon-style third person battle online and battle your friends, enemies or even frenemies across 6 maps and various modes. Reduce the never-ending army of a non-descriptive country to a bloody, meaty pulp (with extra zest!) as legionnaires of an even less described country.
+So what are you waiting for, get ready to make mince meat of other players, battle endless forces, determine the biologic equation, host a nice pick nick or swim in the ocean.
+	</description>
+	
+	<history>
+In 2012 Sakari and Grin teamed up to create Foreign Legion: Multi Massacre. Jelle Voet from Grin implemented the multiplayer functionality while Pepijn created the needed art and Levels. At release not all content was finished so we decided to to build a little social interaction into the game. We made a level in which the goal was to defend a carier ship from dynamite strapped attacking dolphins and put a global counter on each killed dolphin. We prommised the content to be unlocked when the counter reached one milion. It reached that number just two weeks later. Since there was some critique on the lack of content a zombie mode was added at halloween. Especially the fourpacks and bundle sales with Foreign Legion: Buckets of blood made this game a moderate success. 
+	</history>
+
+	<features>
+		<feature>Battle waves of enemy AI with the 4 player co-op or go head to head up to 8 players in the team deathmatch or domination mode.</feature>
+		<feature>6 map mix of classic BoB action and brand new environments.</feature>
+		<feature>Steam achievements like the assclown where all your friends can see that you spent time honking your clown nose 500 frigging times.</feature>
+		<feature>Own Foreign LegionBuckets of Blood? Sync your steam cloud save and import your progression into the game!</feature>
+		<feature>Using the steam friends system, you can easily invite your friends to a not so friendly game or use the open lobby system to insult and play with other players you will never meet.</feature>
+        <feature>DJ TRILT soundtrack featuring new and remixed songs of the original game.</feature>
+        <feature>PC and Mac can play together or fight to determine which is the better OS</feature>
+        <feature>18+ game and we made sure to get that rating. So expect everything you might expect with a rating like that ;)</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Teaser Trailer</name>
+			<youtube>VsomcucIZAY</youtube>
+		</trailer>
+				<trailer>
+			<name>Halloween Update</name>
+			<youtube>qiruqYlwaUo</youtube>
+		</trailer>
+	</trailers>
+<!--
+	
+	<awards>
+		<award>
+			<description>non yet</description>
+			<info></info>
+		</award>
+	</awards>
+	
+-->
+	<quotes>
+		<quote>
+			<description>WTF Is... - Foreign Legion : Multi Massacre ?</description>
+			<name>TotalBiscuit</name>
+			<website>YouTube</website>
+			<link>https://www.youtube.com/watch?v=3W6y7puRKIk</link>
+		</quote>
+
+	</quotes>
+<!--
+	
+	<additionals>
+		<additional>
+			<title></title>
+			<description></description>
+			<link></link>
+		</additional>
+	</additionals>
+	
+-->
+	<credits>
+
+		<credit>
+			<person>Pepijn Rijnders</person>
+			<website>https://www.linkedin.com/in/pepijnrijnders/</website>
+			<role>Artist, Founder</role>
+		</credit>
+		<credit>
+			<person>Jelle Voet</person>
+			<website>https://www.linkedin.com/in/jellevoet/</website>
+			<role>Code</role>
+		</credit>
+                <credit>
+			<person>Serge Lenears</person>
+			<website>https://www.linkedin.com/in/serge-lenaers-6b9b21b/</website>
+			<role>Animation</role>
+		</credit>
+        <credit>
+			<person>Noel Wessels</person>
+			<website>https://www.linkedin.com/in/noelwessels/</website>
+			<role>Audio</role>
+		</credit>
+	</credits>
+
+</game>

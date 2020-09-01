@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Trailer Trashers</title>
+	<release-date>March 26th 2020</release-date>
+	<website>http://www.sakarigames.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Steam</name>
+			<link>https://store.steampowered.com/app/1248140/Trailer_Trashers/</link>
+		</platform>
+        <platform>
+			<name>Nintendo e-Shop</name>
+			<link>https://www.nintendo.com</link>
+		</platform>
+        <platform>
+			<name>Xbox</name>
+			<link>https://www.xbox.com/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$9.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€9.99</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$10.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£6.99</value>
+		</price>
+	</prices>
+    
+	<description>
+Play with up to four players in this sick twin stick shooting bullet bouncing frenzy. Choose from over five game modes including the classics such as last one standing and team death match or mix them up in a little tournament. Try shotgun soccer, it's soccer but with shotguns! Eight arenas to entertain you and your friends for hours. No one around? No worries we have created an imaginary friend mode too.
+	</description>
+	
+	<history>
+Trailer Trashers was inspired by a gamejam game made way back in 2013. The game was redesigned and developed from the ground up to fit the target platforms and expectations that come with that. During the development it grew into something new with various different game modes with more solid gameplay. It took the team only 3 months to build this beast of a game. During its development the game optimized to run on switch and Xbox. The first release is planned for Nintendo Switch, soon after that the Xbox One, PC, Mac and Linux version should follow. 
+	</history>
+
+	<features>
+		<feature>8 Unique stages</feature>
+		<feature>Play with up to 4 players on one screen</feature>
+        <feature>5 Different gamemodes</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Release Trailer</name>
+			<youtube>AL5NkUPIupI</youtube>
+		</trailer>
+	</trailers>
+	
+<!--
+	<awards>
+		<award>
+			<description>none yet</description>
+			<info></info>
+		</award>
+	</awards>
+-->	
+	
+	<quotes>
+
+
+        
+        <quote>
+			<description>'Trailer Trashers' looks absolutely mad</description>
+			<name>gamingonlinux</name>
+			<website>www.gamingonlinux.com</website>
+			<link>https://www.gamingonlinux.com/articles/twin-stick-multiplayer-party-game-trailer-trashers-looks-absolutely-mad.16019/</link>
+		</quote>
+        
+         <quote>
+			<description>'Trailer Trashers is a perfect couch multiplayer twin stick party game out now</description>
+			<name>gamingonlinux</name>
+			<website>www.gamingonlinux.com</website>
+			<link> https://www.gamingonlinux.com/articles/trailer-trashers-is-a-perfect-couch-multiplayer-twin-stick-party-game-out-now.16315</link>
+		</quote>
+        
+        <quote>
+			<description>UIT NU! • SAMEN OP DE BANK MET TRAILER TRASHERS</description>
+			<name>control-online</name>
+			<website>www.gcontrol-online.nl</website>
+			<link> https://control-online.nl/gamesindustrie/2020/03/26/uit-nu-%E2%80%A2-samen-op-de-bank-met-trailer-trashers/</link>
+		</quote>
+       
+        <quote>
+			<description>Upcoming-hidden-gems</description>
+			<name>gameskeys</name>
+			<website>gameskeys.net</website>
+			<link>https://gameskeys.net/upcoming-hidden-gems/#TrailerTrashers</link>
+		</quote>
+
+	</quotes>
+
+
+	<additionals>
+		<additional>
+			<title>PRESS RELEASE</title>
+			<description>You can find the press release here</description>
+			<link>https://docs.google.com/document/d/1CDSEtoSMeu8SBA-P3tARXMFUqWqnV-dibLHUn5ikvFg/edit?usp=sharing</link>
+		</additional>
+	</additionals>
+
+	
+	<credits>
+
+		<credit>
+			<person>Jeroen Van Raevels</person>
+			<website>https://www.linkedin.com/in/jeroen-van-raevels-2298991b/</website>
+			<role>Lead Programmer</role>
+		</credit>
+		<credit>
+			<person>Matthias Vandeurzen</person>
+			<website>https://www.linkedin.com/in/matthias-vandeurzen-a3bb63160/</website>
+			<role>Lead Environment Artist</role>
+		</credit>
+		<credit>
+			<person>Mattias Pryck</person>
+			<website>https://www.linkedin.com/in/mattias-pryck-b8aab2169/</website>
+			<role>Animator</role>
+		</credit>
+		<credit>
+			<person>Pepijn Rijnders</person>
+			<website>https://www.linkedin.com/in/pepijnrijnders/</website>
+			<role>Direction and Additional Art</role>
+		</credit>
+        <credit>
+			<person>Pepijn Willekens</person>
+			<website>https://www.linkedin.com/in/pepijnw/</website>
+			<role>Programmer</role>
+		</credit>
+	</credits>
+
+</game>

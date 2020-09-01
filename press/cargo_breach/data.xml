@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Cargo Breach</title>
+	<release-date>13 Oct, 2017</release-date>
+	<website>http://no28.games/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Steam</name>
+			<link>http://store.steampowered.com/app/722040/Cargo_Breach//</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$9.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€9.99</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$10.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£6.99</value>
+		</price>
+	</prices>
+	<description>
+	Cargo Breach is an Intense VR Arcade Shooter with Unique Weapon Mechanics. You hunt down escaped creatures in  dark atmospheric spaceship corridors. All presented in stunning AAA graphics.
+Cargo is Breached!
+
+The Selene is transporting livestock from outer space back to earth for the Food conglomerate S Car Go. Venture into the ship and eradicate all escaped creatures before the ship reaches earth.
+
+Cargo Breach is a VR Horror Shooter where you explore dark corridors hunting down escaped creatures. In each hand you hold part of the Modular. Pistols when held seperate, other guns when combined.
+Now be a good employee of S Car Go and clean that ship.
+	</description>
+	
+	<history>
+The first prototypes were based on past games like Foreign Legion, but did not make for a unique VR experience. Since mid 2016 anything in VR was considered amazing, a lot of titles relied on very similar mechanics so we decided to take a unique spin on the genre. 
+We did want to make a shooting game arcade yet tactical and let the player handle the weapons as if they are holding them. This is when the idea arose to change weapons through gesture. For instance when one controller is held in front of the other a grenade launcher is formed. When holding one hand horizontally above the other a machinegun appears. When separating a pistol was assigned to each hand. It took some time and code to get it all right but once the mechanic was working it felt very natural.
+
+So now that we had a solid game mechanic in our beloved Unity engine we needed a setting and something to shoot at. Thankfully one of the team members once worked on an abandoned project that had a bunch of critters in it. And the unity asset store offered a nice pack of eerie space station corridors. Ad some spooky lighting.. All that was left was to create a system so the critters could make use of any surface to move. 
+
+To really set the mood for the environment we used a lot of realtime lights. Thankfully Valve made its The Lab shaders available on the asset store. This really boosted the frame rate of our project through its virtual roof leaving plenty of  headspace for more graphic goodness such as real-time cube-mapping, Shadows, Post-Process effect and a bunch of critters.
+
+It looked great, the only challenge was finding the threat..A radar helped but not enough, but adding spatial audio brought the entire game together. The sound helped you pinpoint the enemy, so you could practically play the game with your eyes closed..
+
+Obviously the game needed a lot of polish before it was worthy to the mighty Steam platform. But after a good month of testing and tweaking it was good to go.. The project took about 6 months in total and with a core team of barely three people it has become a game we are definitely proud of.
+We hope you find the time to play it and enjoy it as much as we enjoyed creating it.
+	</history>
+
+	<features>
+		<feature>Gesture based gun mechanics allow you to switch guns by aligning your controllers differently.</feature>
+		<feature>Various weapon types that each have a different impact on the threats.</feature>
+		<feature>Randomized Level creation. Each run will be different, Blasting numerous waves of creatures along the way.</feature>
+		<feature>Amazing spatialized audio allows you to locate your enemies in the dark.</feature>
+		<feature>Stunning state of the art, High-end Triple A+ graphics.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Release Trailer</name>
+			<youtube>frVtclKzC_I</youtube>
+		</trailer>
+				<trailer>
+			<name>Gun Morphing Example</name>
+			<youtube>63nPCVPB5K8</youtube>
+		</trailer>
+	</trailers>
+<!--
+	
+	<awards>
+		<award>
+			<description>non yet</description>
+			<info></info>
+		</award>
+	</awards>
+	
+-->
+	<quotes>
+		<quote>
+			<description>this game is easily one of the best of its genre.</description>
+			<name>Gamer Dad</name>
+			<website>gamerdad.co.uk</website>
+			<link>https://gamerdad.co.uk/pc_gaming/pc/pc_review/cargo-breach-pc-review/</link>
+		</quote>
+		<quote>
+			<description>Cargo Breach voor Oculus Rift en HTC Vive is voor €9,99 te downloaden op Steam.</description>
+			<name>control</name>
+			<website>control-online.nl</website>
+			<link>http://control-online.nl/gamesindustrie/2017/10/17/uit-nu-%E2%80%A2-vr-horror-arcade-shooter-cargo-breach/</link>
+		</quote>
+		<quote>
+			<description>I love to see indie developers make games like this, it gives me hope for the future.</description>
+			<name>BareFoot Gaming</name>
+			<website>YouTuber</website>
+			<link>https://www.youtube.com/watch?v=Auja3fFNtrw</link>
+		</quote>
+
+	</quotes>
+<!--
+	
+	<additionals>
+		<additional>
+			<title></title>
+			<description></description>
+			<link></link>
+		</additional>
+	</additionals>
+	
+-->
+	<credits>
+		<credit>
+			<person>Bop Mommers</person>
+			<website>https://www.linkedin.com/in/bop-mommers-b5945397/</website>
+			<role>Code, Founder</role>
+		</credit>
+		<credit>
+			<person>Pepijn Rijnders</person>
+			<website>https://www.linkedin.com/in/pepijnrijnders/</website>
+			<role>Artist, Founder</role>
+		</credit>
+		<credit>
+			<person>Jeroen Van Raevels</person>
+			<website>https://www.linkedin.com/in/jeroen-van-raevels-2298991b/</website>
+			<role>Code, Founder</role>
+		</credit>
+	</credits>
+
+</game>

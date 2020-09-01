@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Rover Wars</title>
+	<release-date>Early, 2020</release-date>
+	<website>http://www.sakarigames.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Steam</name>
+			<link>https://store.steampowered.com/app/1259130/Rover_Wars/</link>
+		</platform>
+        <platform>
+			<name>Nintendo e-Shop</name>
+			<link>https://www.nintendo.com</link>
+		</platform>
+        <platform>
+			<name>Xbox</name>
+			<link>https://www.xbox.com/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$6.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€5.69</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$7.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£5.19</value>
+		</price>
+	</prices>
+    
+	<description>
+Team with up to 8 friends on one screen in this fast paced battle arena.
+Choose your faction and use your Rover to build an army with a variety of units. Bash the opposing forces or call in a devastating death-beam. Expand your build area by building factories and achieve total supremacy!
+	</description>
+	
+	<history>
+Rover Wars started as a side scrolling splitscreen gamejam game. The concept of building various factories that each spawned different units and the player running arround attacking units to gather recources worked nicely and created a balanced gameplay loop. However the setting and the 2d aspect limited the posibilies. It soon became clear that switching to a top down map with different layouts was a good choice as it caused the players to rethink their game strategy as the map changed. To avoid the game being only local multiplayer bots where introduced. The bots turned out pretty smart and really needed to be stupified to not overrun the players. Although we aimed to release as early as posible we realised that not adding a small campaign might make the game miss a bit of its potential. The mini-campaign will serve well as a introduction and will leave the player with a feeling of finishing the game. It can be played in co-op. Players can drop in at any time. This also counts for the battle mode where the game will balance itself by adding bots when players drop in. Obviously players can customize their battles to their needs. 
+	</history>
+
+	<features>
+		<feature>Mini campaign</feature>
+		<feature>Play with up to 8 players on one screen</feature>
+        <feature>17 Unique stages spread over 3 planets</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Reveal Trailer</name>
+			<youtube>NKlA-NiXdkM</youtube>
+		</trailer>
+        		<trailer>
+			<name>WTF is Rover Wars</name>
+			<youtube>HEXskJ0cPpY</youtube>
+		</trailer>
+	</trailers>
+<!--	
+	<awards>
+		<award>
+			<description>none yet</description>
+			<info></info>
+		</award>
+	</awards>
+	
+	<quotes>
+
+		<quote>
+			<description>this game is easily one of the best of its genre.</description>
+			<name>Gamer Dad</name>
+			<website>gamerdad.co.uk</website>
+			<link>https://gamerdad.co.uk/pc_gaming/pc/pc_review/cargo-breach-pc-review/</link>
+		</quote>
+
+	</quotes>
+-->	
+	<additionals>
+		<additional>
+			<title>PRESS RELEASE</title>
+			<description>You can find the press release here</description>
+			<link>https://sakarigames.com/press/rover_wars/PressReleaseRoverWars.html</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+
+		<credit>
+			<person>Pepijn Willekens</person>
+			<website>https://www.linkedin.com/in/pepijnw/</website>
+			<role>Lead Programmer</role>
+		</credit>
+        <credit>
+			<person>Pepijn Rijnders</person>
+			<website>https://www.linkedin.com/in/pepijnrijnders/</website>
+			<role>Direction and Art</role>
+		</credit>
+		<credit>
+			<person>Matthias Vandeurzen</person>
+			<website>https://www.linkedin.com/in/matthias-vandeurzen-a3bb63160/</website>
+			<role>Environment Artist</role>
+		</credit>
+        <credit>
+			<person>Jeroen Van Raevels</person>
+			<website>https://www.linkedin.com/in/jeroen-van-raevels-2298991b/</website>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Mattias Pryck</person>
+			<website>https://www.linkedin.com/in/mattias-pryck-b8aab2169/</website>
+			<role>Animator</role>
+		</credit>
+	</credits>
+
+</game>

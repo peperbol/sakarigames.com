@@ -1,0 +1,113 @@
+[13-Apr-2020 13:24:45 America/New_York] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/sakamkpa/public_html/SMSForm/mail.php on line 2
+[13-Apr-2020 13:24:45 America/New_York] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/sakamkpa/public_html/SMSForm/mail.php on line 2
+[13-Apr-2020 13:24:45 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sakamkpa/public_html/SMSForm/mail.php on line 2
+[13-Apr-2020 19:24:16 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 43
+[13-Apr-2020 19:24:39 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 43
+[13-Apr-2020 19:30:16 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 43
+[13-Apr-2020 19:39:34 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 43
+[13-Apr-2020 19:42:06 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 43
+[13-Apr-2020 19:51:13 America/New_York] PHP Parse error:  syntax error, unexpected ''0032487551238@sms.clicksend.c' (T_CONSTANT_ENCAPSED_STRING) in /home/sakamkpa/public_html/SMSForm/index.php on line 23
+[13-Apr-2020 19:51:17 America/New_York] PHP Parse error:  syntax error, unexpected ''0032487551238@sms.clicksend.c' (T_CONSTANT_ENCAPSED_STRING) in /home/sakamkpa/public_html/SMSForm/index.php on line 23
+[13-Apr-2020 19:52:48 America/New_York] PHP Parse error:  syntax error, unexpected ''0032487551238@sms.clicksend.c' (T_CONSTANT_ENCAPSED_STRING) in /home/sakamkpa/public_html/SMSForm/index.php on line 23
+[13-Apr-2020 19:53:17 America/New_York] PHP Parse error:  syntax error, unexpected ''0032487551238@sms.clicksend.c' (T_CONSTANT_ENCAPSED_STRING) in /home/sakamkpa/public_html/SMSForm/index.php on line 23
+[13-Apr-2020 19:55:50 America/New_York] PHP Parse error:  syntax error, unexpected ''0032487551238@sms.clicksend.c' (T_CONSTANT_ENCAPSED_STRING) in /home/sakamkpa/public_html/SMSForm/index.php on line 23
+[13-Apr-2020 19:55:53 America/New_York] PHP Parse error:  syntax error, unexpected ''0032487551238@sms.clicksend.c' (T_CONSTANT_ENCAPSED_STRING) in /home/sakamkpa/public_html/SMSForm/index.php on line 23
+[14-Apr-2020 12:36:07 America/New_York] PHP Warning:  require(PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sakamkpa/public_html/SMSForm/mailtest.php on line 8
+[14-Apr-2020 12:36:07 America/New_York] PHP Warning:  require(PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sakamkpa/public_html/SMSForm/mailtest.php on line 8
+[14-Apr-2020 12:36:07 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMailer\src\Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sakamkpa/public_html/SMSForm/mailtest.php on line 8
+[14-Apr-2020 12:42:56 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 48
+[14-Apr-2020 12:46:43 America/New_York] PHP Notice:  Undefined variable: from_name in /home/sakamkpa/public_html/SMSForm/index.php on line 24
+[14-Apr-2020 12:46:43 America/New_York] PHP Notice:  Undefined variable: from in /home/sakamkpa/public_html/SMSForm/index.php on line 25
+[14-Apr-2020 12:46:43 America/New_York] PHP Notice:  Undefined variable: from in /home/sakamkpa/public_html/SMSForm/index.php on line 26
+[14-Apr-2020 12:46:43 America/New_York] PHP Notice:  Undefined variable: from_name in /home/sakamkpa/public_html/SMSForm/index.php on line 26
+[14-Apr-2020 12:46:43 America/New_York] PHP Notice:  Undefined variable: subject in /home/sakamkpa/public_html/SMSForm/index.php on line 27
+[14-Apr-2020 12:46:43 America/New_York] PHP Notice:  Undefined variable: body in /home/sakamkpa/public_html/SMSForm/index.php on line 28
+[14-Apr-2020 12:46:43 America/New_York] PHP Notice:  Undefined variable: to in /home/sakamkpa/public_html/SMSForm/index.php on line 29
+[14-Apr-2020 12:46:46 America/New_York] PHP Notice:  Undefined variable: from_name in /home/sakamkpa/public_html/SMSForm/index.php on line 24
+[14-Apr-2020 12:46:46 America/New_York] PHP Notice:  Undefined variable: from in /home/sakamkpa/public_html/SMSForm/index.php on line 25
+[14-Apr-2020 12:46:46 America/New_York] PHP Notice:  Undefined variable: from in /home/sakamkpa/public_html/SMSForm/index.php on line 26
+[14-Apr-2020 12:46:46 America/New_York] PHP Notice:  Undefined variable: from_name in /home/sakamkpa/public_html/SMSForm/index.php on line 26
+[14-Apr-2020 12:46:46 America/New_York] PHP Notice:  Undefined variable: subject in /home/sakamkpa/public_html/SMSForm/index.php on line 27
+[14-Apr-2020 12:46:46 America/New_York] PHP Notice:  Undefined variable: body in /home/sakamkpa/public_html/SMSForm/index.php on line 28
+[14-Apr-2020 12:46:46 America/New_York] PHP Notice:  Undefined variable: to in /home/sakamkpa/public_html/SMSForm/index.php on line 29
+[14-Apr-2020 12:46:50 America/New_York] PHP Notice:  Undefined variable: from_name in /home/sakamkpa/public_html/SMSForm/index.php on line 24
+[14-Apr-2020 12:46:50 America/New_York] PHP Notice:  Undefined variable: from in /home/sakamkpa/public_html/SMSForm/index.php on line 25
+[14-Apr-2020 12:46:50 America/New_York] PHP Notice:  Undefined variable: from in /home/sakamkpa/public_html/SMSForm/index.php on line 26
+[14-Apr-2020 12:46:50 America/New_York] PHP Notice:  Undefined variable: from_name in /home/sakamkpa/public_html/SMSForm/index.php on line 26
+[14-Apr-2020 12:46:50 America/New_York] PHP Notice:  Undefined variable: subject in /home/sakamkpa/public_html/SMSForm/index.php on line 27
+[14-Apr-2020 12:46:50 America/New_York] PHP Notice:  Undefined variable: body in /home/sakamkpa/public_html/SMSForm/index.php on line 28
+[14-Apr-2020 12:46:50 America/New_York] PHP Notice:  Undefined variable: to in /home/sakamkpa/public_html/SMSForm/index.php on line 29
+[14-Apr-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: from_name in /home/sakamkpa/public_html/SMSForm/index.php on line 24
+[14-Apr-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: from in /home/sakamkpa/public_html/SMSForm/index.php on line 25
+[14-Apr-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: from in /home/sakamkpa/public_html/SMSForm/index.php on line 26
+[14-Apr-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: from_name in /home/sakamkpa/public_html/SMSForm/index.php on line 26
+[14-Apr-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: subject in /home/sakamkpa/public_html/SMSForm/index.php on line 27
+[14-Apr-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: body in /home/sakamkpa/public_html/SMSForm/index.php on line 28
+[14-Apr-2020 12:47:01 America/New_York] PHP Notice:  Undefined variable: to in /home/sakamkpa/public_html/SMSForm/index.php on line 29
+[14-Apr-2020 12:47:07 America/New_York] PHP Notice:  Undefined variable: from_name in /home/sakamkpa/public_html/SMSForm/index.php on line 24
+[14-Apr-2020 12:47:07 America/New_York] PHP Notice:  Undefined variable: from in /home/sakamkpa/public_html/SMSForm/index.php on line 25
+[14-Apr-2020 12:47:07 America/New_York] PHP Notice:  Undefined variable: from in /home/sakamkpa/public_html/SMSForm/index.php on line 26
+[14-Apr-2020 12:47:07 America/New_York] PHP Notice:  Undefined variable: from_name in /home/sakamkpa/public_html/SMSForm/index.php on line 26
+[14-Apr-2020 12:47:07 America/New_York] PHP Notice:  Undefined variable: subject in /home/sakamkpa/public_html/SMSForm/index.php on line 27
+[14-Apr-2020 12:47:07 America/New_York] PHP Notice:  Undefined variable: body in /home/sakamkpa/public_html/SMSForm/index.php on line 28
+[14-Apr-2020 12:47:07 America/New_York] PHP Notice:  Undefined variable: to in /home/sakamkpa/public_html/SMSForm/index.php on line 29
+[14-Apr-2020 12:49:52 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 49
+[14-Apr-2020 12:51:17 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 49
+[14-Apr-2020 12:51:20 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 49
+[14-Apr-2020 12:51:23 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 49
+[14-Apr-2020 12:51:52 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 49
+[14-Apr-2020 12:51:53 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 49
+[14-Apr-2020 12:54:17 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 49
+[14-Apr-2020 12:59:22 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 6
+[14-Apr-2020 12:59:24 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 6
+[14-Apr-2020 12:59:25 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 6
+[14-Apr-2020 12:59:27 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 6
+[14-Apr-2020 13:00:44 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 6
+[14-Apr-2020 13:00:48 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 6
+[14-Apr-2020 13:00:50 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 6
+[14-Apr-2020 13:00:51 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 6
+[14-Apr-2020 13:07:07 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 3
+[14-Apr-2020 13:07:09 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 3
+[14-Apr-2020 13:07:10 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 3
+[14-Apr-2020 13:07:10 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 3
+[14-Apr-2020 13:07:11 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 3
+[14-Apr-2020 13:07:12 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/sakamkpa/public_html/SMSForm/index.php on line 3
+[14-Apr-2020 13:10:47 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 64
+[14-Apr-2020 13:12:26 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 52
+[14-Apr-2020 13:12:29 America/New_York] PHP Fatal error:  Call to undefined function smtpmailer() in /home/sakamkpa/public_html/SMSForm/index.php on line 52
+[14-Apr-2020 13:13:51 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 63
+[14-Apr-2020 13:28:11 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 60
+[14-Apr-2020 13:28:14 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 60
+[14-Apr-2020 13:28:27 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 60
+[14-Apr-2020 13:32:27 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 60
+[14-Apr-2020 13:45:01 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 60
+[14-Apr-2020 13:57:49 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 60
+[14-Apr-2020 14:02:35 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 62
+[14-Apr-2020 14:02:46 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 62
+[14-Apr-2020 14:02:57 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 62
+[14-Apr-2020 14:06:16 America/New_York] PHP Parse error:  syntax error, unexpected 'Welcome' (T_STRING), expecting ',' or ';' in /home/sakamkpa/public_html/SMSForm/index.php on line 11
+[14-Apr-2020 14:06:21 America/New_York] PHP Parse error:  syntax error, unexpected 'Welcome' (T_STRING), expecting ',' or ';' in /home/sakamkpa/public_html/SMSForm/index.php on line 11
+[14-Apr-2020 14:06:37 America/New_York] PHP Parse error:  syntax error, unexpected 'Welcome' (T_STRING), expecting ',' or ';' in /home/sakamkpa/public_html/SMSForm/index.php on line 11
+[14-Apr-2020 14:07:40 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 62
+[14-Apr-2020 14:07:50 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 62
+[14-Apr-2020 14:08:11 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 62
+[14-Apr-2020 14:08:32 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 62
+[14-Apr-2020 14:10:09 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 62
+[14-Apr-2020 14:10:16 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 62
+[14-Apr-2020 14:11:17 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 62
+[14-Apr-2020 14:13:11 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 64
+[14-Apr-2020 14:13:37 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 64
+[14-Apr-2020 14:13:37 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 64
+[14-Apr-2020 14:13:53 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 64
+[14-Apr-2020 15:33:57 America/New_York] PHP Notice:  Undefined variable: error in /home/sakamkpa/public_html/SMSForm/index.php on line 64
+[15-Apr-2020 07:04:54 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6
+[15-Apr-2020 07:16:45 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6
+[15-Apr-2020 07:17:30 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6
+[15-Apr-2020 07:17:39 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6
+[15-Apr-2020 07:29:40 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6
+[15-Apr-2020 07:40:44 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6
+[15-Apr-2020 08:29:21 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6
+[15-Apr-2020 08:59:39 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6
+[15-Apr-2020 09:00:16 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6
+[15-Apr-2020 09:00:31 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6
+[16-Apr-2020 03:47:30 America/New_York] PHP Notice:  Undefined index: mail in /home/sakamkpa/public_html/SMSForm/contactform.php on line 6

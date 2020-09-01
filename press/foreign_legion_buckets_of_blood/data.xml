@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Foreign Legion: Buckets of Blood</title>
+	<release-date>5 Aug, 2009</release-date>
+	<website>http://sakarigames.com</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Steam</name>
+			<link>https://store.steampowered.com/app/36000/Foreign_Legion_Buckets_of_Blood/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$3.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€3.99</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$4.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£2.99</value>
+		</price>
+	</prices>
+	<description>
+Foreign Legion: Buckets of Blood is a cartoon-style third-person shooter. You take the role of a last-standing hard-boiled Legionnaire taking on an entire rebel army.
+A small campaign with various objectives, such as defending civilians, escorting a tourist bus and a mass-chicken-murder map. The game includes a ranking system that allows you to unlock new outfits, accessories and of course new weapons.
+	</description>
+	
+	<history>
+Foreign Legion was the debute title of Sakari Games. First released as a one level game it was updated as promised to a more mission based game. In the first version all weapons were available from the start. After the update a leveling system was introduced that would unlock the weapons. Boxed versions of the game were available in Germany, Poland and Russia. For a short period the game also was embeded into a Belgium social platform.   
+	</history>
+
+	<features>
+		<feature>18 Various Steam achievements: Try to win Chicken Slaughter (killing all the chickens) and Damage Control (sparing all the civilians) in the same game!</feature>
+		<feature>Fill your buckets with blood by causing suicide bombers to explode prematurely or shoot gory head shots!</feature>
+		<feature>A dynamically evolving soundtrack that reacts to your actions!</feature>
+		<feature>A complete arsenal of weapons, including personal air-raid support to slaughter attacking hordes at once.</feature>
+		<feature>A broad range of difficulty with action-packed fun for both casual and veteran players!</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Teaser Trailer</name>
+			<youtube>DI4EdYYmP78</youtube>
+		</trailer>
+				<trailer>
+			<name>Gameplay Trailer</name>
+			<youtube>nkWR4g1Jbug</youtube>
+		</trailer>
+	</trailers>
+<!--
+	
+	<awards>
+		<award>
+			<description>non yet</description>
+			<info></info>
+		</award>
+	</awards>
+	
+-->
+	<quotes>
+		<quote>
+			<description>A Nose At: Foreign Legion: Buckets Of Blood</description>
+			<name>Alec Meer</name>
+			<website>Rock Paper Shotgun</website>
+			<link>https://www.rockpapershotgun.com/2010/01/06/impressions-foreign-legion-buckets-of-blood/</link>
+		</quote>
+		<quote>
+			<description>The Making Of... Buckets Of Blood</description>
+			<name>Hivemind</name>
+			<website>Rock Paper Shotgun</website>
+			<link>https://www.rockpapershotgun.com/2010/02/09/the-making-of-buckets-of-blood/</link>
+		</quote>
+
+	</quotes>
+<!--
+	
+	<additionals>
+		<additional>
+			<title></title>
+			<description></description>
+			<link></link>
+		</additional>
+	</additionals>
+	
+-->
+	<credits>
+
+		<credit>
+			<person>Pepijn Rijnders</person>
+			<website>https://www.linkedin.com/in/pepijnrijnders/</website>
+			<role>Artist, Founder</role>
+		</credit>
+        <credit>
+			<person>Merlijn Van Holder</person>
+			<website>https://www.linkedin.com/in/merlijnvh/</website>
+			<role>Artist, Leveldesign</role>
+		</credit>
+		<credit>
+			<person>Sander Brandenburg</person>
+			<website>https://www.linkedin.com/in/sanderbrandenburg/</website>
+			<role>Lead Code, Founder</role>
+		</credit>
+        <credit>
+			<person>Pieter Hoste</person>
+			<website>https://www.linkedin.com/in/pieterhoste/</website>
+			<role>Code</role>
+		</credit>
+        <credit>
+			<person>Noel Wessels</person>
+			<website>https://www.linkedin.com/in/noelwessels/</website>
+			<role>Audio</role>
+		</credit>
+	</credits>
+
+</game>

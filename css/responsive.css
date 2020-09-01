@@ -1,0 +1,123 @@
+@media screen and (max-width: 1024px) {
+	body, .content p{
+		font-size: 20px;
+	}
+	.para_collapse{
+		height: 80px;
+	}
+	.btn-more, .btn-less{
+		font-size: 20px;
+	}
+	h2{
+		margin-bottom: 18px;
+		font-size: 30px;
+	}
+	.about_image img{
+		max-width: 120px;
+	}
+	.item_content .image_overlay{
+		padding: 15px 10px;
+	}
+	.item_content .image_overlay .arrow_link{
+		right: 10px;
+	}
+	.item_content .image_overlay .arrow_link img{
+		max-width: 15px;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	.header {
+	    padding: 18px 0;
+	}
+	.banner{
+		padding-bottom: 15px;
+	}
+	.about_info{
+		padding: 25px 0;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	body, .content p{
+		font-size: 18px;
+	}
+	.team_members li{
+		font-size: 0.85em;
+	}
+	.para_collapse {
+	    height: 70px;
+	}
+	.about_image img {
+	    max-width: 100px;
+	}
+	.prevous_projects, .partner{
+		padding: 25px 0 30px;
+	}
+	.logo img{
+		height: 32px;
+	}
+	.owl-nav button{
+		width: 32px;
+	}
+	.owl-nav button span{
+		font-size: 42px !important;
+	}
+}
+
+@media screen and (max-width: 575px) {
+	.modal .close{
+		max-width: 28px;
+		right: -35px;
+	}
+	.modal-body{
+		padding: 20px 15px;
+		font-size: 16px;
+	}
+	.modal-body h3{
+		font-size: 23px;
+		margin-bottom: 12px;
+	}
+	.modal-buttons a{
+		margin-left: 4px;
+	}
+	.modal-buttons img{
+		height: 28px;
+	}
+	.modal-body p{
+		margin-bottom: 10px;
+	}
+	.about_image{
+		margin-top: 0;
+		margin-bottom: 20px;
+	}
+	/* .team_members li{
+		min-width: 110px;
+	} */
+	.logos li {
+	    padding: 5px 5px;
+	}
+	.item_content .image_overlay{
+		padding: 15px;
+	}
+	.item_content .image_overlay .arrow_link{
+		right: 15px;
+	}
+}
+
+@media screen and (max-width: 479px) {
+	.modal-dialog{
+		max-width: 95%;
+	}
+	.modal .close{
+		right: 5px;
+		top: 5px;
+	}
+	.team_members li {
+	    min-width: 72px;
+	}
+	h2 {
+    	margin-bottom: 15px;
+	    font-size: 26px;
+	}
+}

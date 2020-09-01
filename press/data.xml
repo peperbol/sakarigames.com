@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Sakari Games</title>
+	<founding-date>May 9, 2008</founding-date>
+	<website>http://www.sakarigames.com/</website>
+	<based-in>Antwerp, Belgium</based-in>
+	
+	<press-contact>press@sakarigames.com</press-contact>
+	<phone>+32 (0) 48 75 51 238</phone>
+	<address>
+		<line>Stadswaag 19b</line>
+		<line>2000 Antwerp</line>
+		<line>Belgium</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>twitter.com/sakarigames</name>
+			<link>twitter.com/sakarigames</link>
+		</social>
+		<social>
+			<name>facebook.com/sakarigames</name>
+			<link>facebook.com/sakarigames</link>
+		</social>
+	</socials>
+
+	<description>	
+		Sakari Games is an independent Games Development Studio based in Antwerp, Belgium.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Overview</header>
+			<text>The talented team at Sakari has a strong focus on daring and unique IP’s targeting the console market.</text>
+		</history>
+		<history>
+			<header>History</header>
+			<text>For over 10 years Sakari has been delivering games for a diversity of platforms including PC, Mac, Mobile, VR and recently Nintento Switch and Xbox One. Take a look in the projects section on this page for a selection of their past and present projects.</text>
+		</history>
+        <history>
+			<header>Working Method</header>
+			<text>Sakari tends to work on multiple projects at the same time. The team may be small, but has all needed disciplines. When we start a new development cycle, we all decide what the next projects will be and set a clear scope. Each project gets a dedicated programmer assigned. We tend to also assign one artist that also does the level design for each project. Usually during the projects there is always some switching. With our last projects, Matthias helped out to create some levels for the Rover Wars project and Pepijn Sr. jumped in the Trailer Trashers project to set up some UI while our animator Matti rigged, skinned and animated the characters and robots for both projects. Most of the time it all blends very smoothly and no one is ever waiting for anyone else to finish. This is something that comes with experience and mostly good communication.
+            
+                Our office is a bit of a social hangout with a couch and even a swing, this non-formal setting invites to talk things through. We also play test often and because our focus is on couch games, we do this together. During these play tests, we use the Asana app to make and assign tasks whenever something pops up. Anyone can make tasks for anyone, we just pickup "problems", talk about a solution and note that down. This makes our studio a very flat hierarchy and the work the most fun. During development we constantly make builds on all target platforms to make sure that optimisation is part of the workflow and not some horrible task at the end of the project.
+
+                Once the games are in submission, all needed marketing assets and translations are being made. For Localisation, we created a system that makes it exceptionally easy to add languages. With the help of some foreign friends and translators, the entire process only took a few days. All in all we are very happy about this way of working as it gives us a lot of freedom and the progress we can make, is fantastic. Obviously it demands a lot from everyone involved, but that fits our personalities. Most of the time we have a lot of fun doing what we do and that is what counts the most.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+<!--
+		<trailer>
+			<name>Foreign Legion:Buckets of blood</name>
+			<youtube>nkWR4g1Jbug</youtube>
+		</trailer>
+-->
+	</trailers>
+	
+	<awards>
+<!--
+		<award>
+			<description>We never send anything</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+-->
+	</awards>
+	
+	<quotes>
+<!--
+		<quote>
+			<description>A Nose At: Foreign Legion: Buckets Of Blood</description>
+			<name>Alec Meer</name>
+			<website>Rock Paper Shotgun</website>
+			<link>https://www.rockpapershotgun.com/2010/01/06/impressions-foreign-legion-buckets-of-blood/</link>
+		</quote>
+		<quote>
+			<description>The Making Of... Buckets Of Blood</description>
+			<name>Hivemind</name>
+			<website>Rock Paper Shotgun</website>
+			<link>https://www.rockpapershotgun.com/2010/02/09/the-making-of-buckets-of-blood/</link>
+		</quote>
+-->
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Blender</title>
+			<description>We are proud to use blender as our 3DSoftware.</description>
+			<link>http://www.blender.org</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Pepijn Rijnders</person>
+			<website>https://www.linkedin.com/in/pepijnrijnders/</website>
+			<role>Founder</role>
+		</credit>
+		<credit>
+			<person>Jeroen Van Raevels</person>
+			<website>https://www.linkedin.com/in/jeroen-van-raevels-2298991b/</website>
+			<role>Lead Code</role>
+		</credit>
+		<credit>
+			<person>Pepijn Willekens</person>
+			<website>https://www.linkedin.com/in/pepijnw/</website>
+			<role>Gameplay Code</role>
+		</credit>
+		<credit>
+			<person>Matthias Vandeurzen</person>
+			<website>https://www.linkedin.com/in/matthias-vandeurzen-a3bb63160/</website>
+			<role>Game and Level Design</role>
+		</credit>
+		<credit>
+			<person>Mattias Pryck</person>
+			<website>https://www.linkedin.com/in/mattias-pryck-b8aab2169/</website>
+			<role>Animator</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>press@sakarigames.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/sakarigames</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/sakarigames</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://www.sakarigames.com</link>
+		</contact>
+	</contacts>
+</game>
