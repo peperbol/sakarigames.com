@@ -210,14 +210,14 @@ echo '<!DOCTYPE html>
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/uikit/1.2.0/css/uikit.gradient.min.css" rel="stylesheet" type="text/css">
 		<link href="style.css" rel="stylesheet" type="text/css">
 		<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176996671-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag("js", new Date());
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176996671-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag("js", new Date());
 
-  gtag("config", "UA-176996671-1");
-</script>
+		  gtag("config", "UA-176996671-1");
+		</script>
 
 	</head>
 
