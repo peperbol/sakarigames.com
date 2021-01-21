@@ -40,13 +40,92 @@
       <!-- /.container -->
     </header>
 
-    <main class="w-100 ">
-      <div class="banner w-100">
+      <div id="video-wrap" class="video-wrap">
+        <video preload="metadata" autoplay loop muted id="my-video">
+          <source src="videos/backgroundvid.mp4" type="video/mp4">
+          <source src="videos/backgroundvid.ogg" type="video/ogg">
+        </video>
+      </div>
+
+
+
+      <div class="about_info w-100">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-3 d-sm-block d-none text-right">
+              <div class="about_image">
+                <img src="images/SakariLogoSingle.svg" class="img-fluid" alt="about" />
+              </div>
+              <!-- /.about_image -->
+            </div>
+            <!-- /.col-sm-3 -->
+            <div class="col-sm-9">
+              <div class="content">
+                <h2>ABOUT US</h2>
+
+                <div class="paragraph para_collapse">
+                  <p style="font-size:0.8em">Sakari Games is a Games Development Studio based in Antwerp, Belgium. For over 10 years Sakari has been delivering games for a diversity of platforms including Nintendo Switch, Xbox, VR titles and mobile games. The talented team is ready to help you with all your digital needs from UX, Programming, Video Game Ports, 3D Artwork, Animation, Rigging, Texture Art, to Marketing Assets.</p>
+
+                  <h2>TEAM <a type="button" class="btn btn-less btn-text float-right p-0" href="press">Presskit</a></h2>
+                </div>
+              </div>
+              <!-- /.content -->
+            </div>
+            <!-- /.col-sm-9 -->
+          </div>
+          <!-- /.row -->
+          <div class="row team_view mt-md-4">
+            <div class="col-sm-12">
+              <ul class="team_members d-flex list-unstyled">
+                <li>
+                  <img src="images/Sr.png" class="img-fluid" alt="team" />
+                  <span>Pepijn</span>
+                </li>
+                <li>
+                  <img src="images/Jerry.png" class="img-fluid" alt="team" />
+                  <span>Jeroen</span>
+                </li>
+                <li>
+                  <img src="images/Jr.png" class="img-fluid" alt="team" />
+                  <span>Pepijn</span>
+                </li>
+                <li>
+                  <img src="images/Thieu.png" class="img-fluid" alt="team" />
+                  <span>Matthias</span>
+                </li>
+                <li>
+                  <img src="images/matti.png" class="img-fluid" alt="team" />
+                  <span>Matti</span>
+                </li>
+              </ul>
+            </div>
+            <!-- /.col-sm-12 -->
+          </div>
+          <!-- /.row -->
+        </div>
+        <!-- /.container -->
+      </div>
+      <!-- /.about_info w-100 -->
+
+      <div class="parallex w-100">
+        <div class="jarallax" style="background-image: url('images/parallex.jpg');">
+      </div>
+      <!-- /.parallex w-100 -->
+      <div class="banner w-100 bottom_carousel">
+        <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <h2>projects</h2>
+          </div>
+          <!-- /.col-sm-12 -->
+        </div>
+        <!-- /.row -->
+      </div>
         <div class="owl-carousel owl-banner owl-theme">
           <div class="item">
             <div class="item_content" data-toggle="modal" data-target="#modalBanner05" style="background-image: url('images/banner_item5.png');"></div>
           </div>
-            <div class="item">
+        <div class="item">
             <div class="item_content" data-toggle="modal" data-target="#modalBanner06" style="background-image: url('images/banner_item6.png');"></div>
           </div>
           <div class="item">
@@ -66,9 +145,7 @@
           </div>
         </div>
       </div>
-      <!-- /.banner w-100 -->
-
-      <!-- Modal -->
+	        <!-- Modal -->
       <div class="modal fade" id="modalBanner00" tabindex="-1" role="dialog" aria-labelledby="modalBanner01Label" aria-hidden="true">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
@@ -250,103 +327,6 @@
               </div>
               <!-- /.stores text-right mt-3 -->
             </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="about_info w-100">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-3 d-sm-block d-none text-right">
-              <div class="about_image">
-                <img src="images/SakariLogoSingle.svg" class="img-fluid" alt="about" />
-              </div>
-              <!-- /.about_image -->
-            </div>
-            <!-- /.col-sm-3 -->
-            <div class="col-sm-9">
-              <div class="content">
-                <h2>ABOUT US</h2>
-
-                <div class="paragraph para_collapse">
-                  <p style="font-size:0.8em">Sakari Games is a Games Development Studio based in Antwerp, Belgium. For over 10 years Sakari has been delivering games for a diversity of platforms including Nintendo Switch, Xbox, VR titles and mobile games. The talented team is ready to help you with all your digital needs from UX, Programming, Video Game Ports, 3D Artwork, Animation, Rigging, Texture Art, to Marketing Assets.</p>
-
-                  <h2>TEAM <a type="button" class="btn btn-less btn-text float-right p-0" href="press">Presskit</a></h2>
-                </div>
-              </div>
-              <!-- /.content -->
-            </div>
-            <!-- /.col-sm-9 -->
-          </div>
-          <!-- /.row -->
-          <div class="row team_view mt-md-4">
-            <div class="col-sm-12">
-              <ul class="team_members d-flex list-unstyled">
-                <li>
-                  <img src="images/Sr.png" class="img-fluid" alt="team" />
-                  <span>Pepijn</span>
-                </li>
-                <li>
-                  <img src="images/Jerry.png" class="img-fluid" alt="team" />
-                  <span>Jeroen</span>
-                </li>
-                <li>
-                  <img src="images/Jr.png" class="img-fluid" alt="team" />
-                  <span>Pepijn</span>
-                </li>
-                <li>
-                  <img src="images/Thieu.png" class="img-fluid" alt="team" />
-                  <span>Matthias</span>
-                </li>
-                <li>
-                  <img src="images/matti.png" class="img-fluid" alt="team" />
-                  <span>Matti</span>
-                </li>
-              </ul>
-            </div>
-            <!-- /.col-sm-12 -->
-          </div>
-          <!-- /.row -->
-        </div>
-        <!-- /.container -->
-      </div>
-      <!-- /.about_info w-100 -->
-
-      <div class="parallex w-100">
-        <div class="jarallax" style="background-image: url('images/parallex.jpg');">
-      </div>
-      <!-- /.parallex w-100 -->
-      <div class="banner w-100 bottom_carousel">
-        <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-            <h2>projects</h2>
-          </div>
-          <!-- /.col-sm-12 -->
-        </div>
-        <!-- /.row -->
-      </div>
-        <div class="owl-carousel owl-banner owl-theme">
-          <div class="item">
-            <div class="item_content" data-toggle="modal" data-target="#modalBanner05" style="background-image: url('images/banner_item5.png');"></div>
-          </div>
-        <div class="item">
-            <div class="item_content" data-toggle="modal" data-target="#modalBanner06" style="background-image: url('images/banner_item6.png');"></div>
-          </div>
-          <div class="item">
-            <div class="item_content" data-toggle="modal" data-target="#modalBanner00" style="background-image: url('images/banner_item0.png');"></div>
-          </div>
-          <div class="item">
-            <div class="item_content" data-toggle="modal" data-target="#modalBanner01" style="background-image: url('images/banner_item1.png');"></div>
-          </div>
-          <div class="item">
-            <div class="item_content" data-toggle="modal" data-target="#modalBanner02" style="background-image: url('images/banner_item2.png');"></div>
-          </div>
-          <div class="item">
-            <div class="item_content" data-toggle="modal" data-target="#modalBanner03" style="background-image: url('images/banner_item3.png');"></div>
-          </div>
-          <div class="item">
-            <div class="item_content" data-toggle="modal" data-target="#modalBanner04" style="background-image: url('images/banner_item4.png');"></div>
           </div>
         </div>
       </div>
