@@ -42,12 +42,39 @@
 
       <div id="video-wrap" class="video-wrap">
         <video preload="metadata" autoplay loop muted id="my-video">
-          <source src="videos/backgroundvid.mp4" type="video/mp4">
-          <source src="videos/backgroundvid.ogg" type="video/ogg">
+          <!-- <source src="videos/backgroundvid480.webm" type="video/webm" >
+          <source src="videos/backgroundvid480.mp4" type="video/mp4" > -->
+          <!-- <source src="videos/backgroundvid1080.webm" type="video/webm">
+          <source src="videos/backgroundvid1080.mp4" type="video/mp4"> -->
         </video>
+        <script>
+          var mainVideo = document.getElementById('my-video');
+
+          if (window.screen.width < 480) {
+            var e= document.createElement("source");
+            e.setAttribute("src", "videos/backgroundvid480.webm");
+            e.setAttribute("type", "video/webm");
+            mainVideo.append(e);
+
+            e = document.createElement("source");
+            e.setAttribute("src", "videos/backgroundvid480.mp4");
+            e.setAttribute("type", "video/mp4");
+            mainVideo.append(e);
+
+            console.log("lololoo");
+          } else {
+          }
+          e = document.createElement("source");
+          e.setAttribute("src", "videos/backgroundvid1080.mp4");
+          e.setAttribute("type", "video/mp4");
+          mainVideo.append(e);
+          e = document.createElement("source");
+          e.setAttribute("src", "videos/backgroundvid1080.webm");
+          e.setAttribute("type", "video/webm");
+          mainVideo.append(e);
+
+        </script>
       </div>
-
-
 
       <div class="about_info w-100">
         <div class="container">
