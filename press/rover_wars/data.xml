@@ -3,7 +3,7 @@
 <game>
 	<title>Rover Wars</title>
 	<release-date>Early, 2020</release-date>
-	<website>http://www.sakarigames.com/</website>
+	<website>http://www.sakari.be/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
 	<platforms>
@@ -88,7 +88,7 @@ Rover Wars started as a side scrolling splitscreen gamejam game. The concept of 
 		<additional>
 			<title>PRESS RELEASE</title>
 			<description>You can find the press release here</description>
-			<link>https://sakarigames.com/press/rover_wars/PressReleaseRoverWars.html</link>
+			<link>https://sakari.be/press/rover_wars/PressReleaseRoverWars.html</link>
 		</additional>
 	</additionals>
 	
