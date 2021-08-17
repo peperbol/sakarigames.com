@@ -383,3 +383,6 @@ h2{
 	opacity: 1 !important;
 	text-decoration: underline !important;
 }
+.jobs  h1 em {
+	font-size: 0.5em;
+}
