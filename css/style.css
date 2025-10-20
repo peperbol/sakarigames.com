@@ -389,3 +389,23 @@ h2{
 .jobs  hr {
 	background-color: white;
 }
+
+/* === Custom Partner Logo Styling === */
+.partner .logos img {
+  max-width: 160px;
+  margin: 10px 20px;
+  opacity: 0.9;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.partner .logos img:hover {
+  transform: scale(1.05);
+  opacity: 1;
+}
+
+/* Larger logos for new partners */
+.partner .logos .partner-large {
+  max-width: 220px;
+  margin: 15px 25px;
+  filter: brightness(1.1);
+}
