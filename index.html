@@ -47,7 +47,7 @@
     </header>
 
       <div id="video-wrap" class="video-wrap">
-        <video preload="metadata" autoplay loop muted id="my-video">
+        <video preload="metadata" autoplay loop muted playsinline id="my-video">
           <!-- <source src="videos/backgroundvid480.webm" type="video/webm" >
           <source src="videos/backgroundvid480.mp4" type="video/mp4" > -->
           <!-- <source src="videos/backgroundvid1080.webm" type="video/webm">
@@ -58,12 +58,12 @@
 
           if (window.screen.width < 480) {
             var e= document.createElement("source");
-            e.setAttribute("src", "videos/backgroundvid480.webm");
+            e.setAttribute("src", "videos/backgroundvid480.mp4");
             e.setAttribute("type", "video/webm");
             mainVideo.append(e);
 
             e = document.createElement("source");
-            e.setAttribute("src", "videos/backgroundvid480.mp4");
+            e.setAttribute("src", "videos/backgroundvid480.webm");
             e.setAttribute("type", "video/mp4");
             mainVideo.append(e);
 
