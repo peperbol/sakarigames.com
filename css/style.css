@@ -11,22 +11,18 @@ html{
 }
 
 .video-wrap::before{
-  content:'';
-  position:absolute;
-  inset:0;
-  background:rgba(0,0,0,0.35); /* keep/tune your dark overlay */
-  pointer-events:none;
-  z-index:1;
-}
+	content:none; }
 
-.video-wrap video{
-  position:absolute;
-  inset:0;
-  width:100%;
-  height:100%;
-  object-fit:cover;   /* fills nicely without distortion */
-  display:block;
-}
+	.video-wrap video {
+		position: absolute;
+		inset: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		display: block;
+		filter: none; /* force no grayscale/brightness filters */
+		opacity: 1; /* be explicit */
+	}
 
 body{
 	font-family: 'Roboto', sans-serif;
