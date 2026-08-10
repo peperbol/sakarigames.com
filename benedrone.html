@@ -150,6 +150,11 @@
             object-fit: contain;
         }
 
+        /* Wide lockup logos (e.g. "met steun van" bar) sit lower to match visual weight */
+        .logo-placeholder.logo-wide {
+            height: 75px;
+        }
+
         /* Responsive Design */
         @media (max-width: 768px) {
             .text-content {
@@ -166,6 +171,10 @@
 
             .logo-placeholder {
                 height: 60px;
+            }
+
+            .logo-placeholder.logo-wide {
+                height: 56px;
             }
         }
 
@@ -281,6 +290,9 @@
                 </div>
                 <div class="logo-placeholder">
                     <img src="sakari-logo.png" alt="Sakari Logo">
+                </div>
+                <div class="logo-placeholder logo-wide">
+                    <img src="images/provincie_antwerpen_logo_RGB_Wit.png" alt="Met steun van Provincie Antwerpen">
                 </div>
             </div>
         </div>
